@@ -27,6 +27,10 @@
 <img src="./assets/4팀_기획자료-이미지-7.jpg" style="border-radius: 10px; width: 700px;"/>
 <img src="./assets/4팀_기획자료-이미지-8.jpg" style="border-radius: 10px; width: 700px;"/>
 <img src="./assets/4팀_기획자료-이미지-9.jpg" style="border-radius: 10px; width: 700px;"/>
+<img src="./assets/4팀_기획자료-이미지-10.jpg" style="border-radius: 10px; width: 700px;"/>
+<img src="./assets/4팀_기획자료-이미지-11.jpg" style="border-radius: 10px; width: 700px;"/>
+<img src="./assets/4팀_기획자료-이미지-12.jpg" style="border-radius: 10px; width: 700px;"/>
+<img src="./assets/4팀_기획자료-이미지-13.jpg" style="border-radius: 10px; width: 700px;"/>
 </div>
 
 [📄 4팀 기획자료 다운로드 / 보기](./.github/profile/assets/4팀_기획자료.pdf)
